@@ -5,3 +5,5 @@ This is a change to an existing file.
 This is the third change to this file.
 
 This is Git that prevents us from a lot of desasters.
+
+Let's finally add a file and commit it
